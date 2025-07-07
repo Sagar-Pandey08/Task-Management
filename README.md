@@ -3,28 +3,19 @@ A full-stack Task Management Application built with MongoDB, Express.js, React.j
 The app allows users to create, edit, delete, and manage tasks with due dates, priorities, completion status, and reminders.
 
 🔴Features
-Create, update, and delete tasks
-
-Set due dates and task priorities
-
-Mark tasks as completed
-
-Set reminders for tasks
-
-Task list with dynamic updates
-
-Responsive design for web
-
-REST API for backend task operations
+-Create, update, and delete tasks
+-Set due dates and task priorities
+-Mark tasks as completed
+-Set reminders for tasks
+-Task list with dynamic updates
+-Responsive design for web
+-REST API for backend task operations
 
 🔴Tech Stack
-Frontend: React.js
-
-Backend: Node.js, Express.js
-
-Database: MongoDB
-
-Other: Mongoose, Axios, JWT (if applicable)
+-Frontend: React.js
+-Backend: Node.js, Express.js
+-Database: MongoDB
+-Other: Mongoose, Axios, JWT (if applicable)
 
 🔴Project Structure
 bash
@@ -38,9 +29,8 @@ Node.js and npm installed
 
 MongoDB installed or cloud database (MongoDB Atlas)
 
-Installation
+🔴Installation
 Clone the repo:
-
 bash
 Copy
 Edit
