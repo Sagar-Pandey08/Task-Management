@@ -47,7 +47,6 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/your-repo.git
 Install server dependencies:
 
 bash
