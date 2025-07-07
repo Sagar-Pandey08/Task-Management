@@ -2,7 +2,7 @@ Task Management App
 A full-stack Task Management Application built with MongoDB, Express.js, React.js, and Node.js (MERN stack).
 The app allows users to create, edit, delete, and manage tasks with due dates, priorities, completion status, and reminders.
 
-Features
+🔴Features
 Create, update, and delete tasks
 
 Set due dates and task priorities
@@ -17,7 +17,7 @@ Responsive design for web
 
 REST API for backend task operations
 
-Tech Stack
+🔴Tech Stack
 Frontend: React.js
 
 Backend: Node.js, Express.js
@@ -26,7 +26,7 @@ Database: MongoDB
 
 Other: Mongoose, Axios, JWT (if applicable)
 
-Project Structure
+🔴Project Structure
 bash
 Copy
 Edit
